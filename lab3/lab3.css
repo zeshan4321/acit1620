@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  font-weight: 100;
+  
+  
+}
+
+header {
+  background-color: #556;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav a {
+  color: white;
+  margin: 15px;
+  
+}
+
+.link-about:hover {
+  color: #FF5733;
+}
+
+.link-skills:hover {
+  color: #33FF57; 
+}
+
+.link-projects:hover {
+  color: #5733FF; 
+}
+
+.link-contact:hover {
+  color: #FF33A1;
+}
+
+
+header nav a:hover {
+  color: #0e6bbd;
+}
+
+#projects{
+
+  font-style: italic;
+
+
+
+}
+
+.project-link1:hover {
+  color: #FF5733; 
+}
+
+.project-link2:hover {
+  color: #33FF57; 
+}
+
+.project-link3:hover {
+  color: #5733FF; 
+}
+.section {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background: #f9f9f9;
+  border: 1px solid;
+  border-radius: 8px;
+}
+
+.section h2 {
+  font-size: 2em;
+  color: #c82e2e;
+}
+
+
+.section a {
+  color: #0e6bbd;
+  text-decoration: none;
+}
+
+.section a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #556;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  
+}
